@@ -18,10 +18,8 @@ Dependencies (100% pip, no system tools required) :
     --ratio     : 4 (low compression) à 10 (very high compression)
 	
 # Recommended values
-For a "radio" effect: --noise 0.006 --threshold 0.15 --ratio 10
-
-For a "talkie-walkie" effect: --noise 0.01 --threshold 0.1 --ratio 15
-
-For a "old TV" effect: --noise 0.002 --ratio 6
+For a "radio" effect: --noise 0.006 --threshold 0.15 --ratio 10  
+For a "talkie-walkie" effect: --noise 0.01 --threshold 0.1 --ratio 15  
+For a "old TV" effect: --noise 0.002 --ratio 6  
 
 Coded with LLM (Claude)
